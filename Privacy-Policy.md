@@ -12,7 +12,6 @@ We collect and store the following types of data to provide our services:
 - `guildId` (Server ID)
 - `channelId` (Channel ID)
 - `messageId` (Message ID)
-- `shardId` (Bot shard identifier)
 
 ### 1.2 User Identifiers and Data
 - `userId` (User Discord ID)
